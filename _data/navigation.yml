@@ -1,0 +1,7 @@
+header:
+  - title: Home
+      # @end locale config
+    url: /
+  - title: Download
+      # @end locale config
+    url: /#Download

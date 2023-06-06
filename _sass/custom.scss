@@ -1,0 +1,17 @@
+/* start custom scss snippet */
+.title {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.2;
+    .info {
+        font-weight: normal;
+        font-size: 1.2rem;
+    }
+}
+.article__content {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* end custom scss snippet */
