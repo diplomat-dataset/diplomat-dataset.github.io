@@ -1,6 +1,10 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+<<<<<<< HEAD
 url: punchline-dataset.github.io
+=======
+url: diplomat-dataset.github.io
+>>>>>>> d23e168809ca907874c54a12c53bfe4d0083e123
 title: Diplomat
 description: >
   Diplomat Dataset
@@ -9,7 +13,7 @@ lang: en
 timezone: Asia/Shanghai
 
 
-repository: punchline-dataset/punchline-dataset.github.io
+repository: diplomat-dataset/diplomat-dataset.github.io
 repository_tree: master
 
 
