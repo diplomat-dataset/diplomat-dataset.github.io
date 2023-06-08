@@ -8,7 +8,7 @@ comment: false
 
 
 <div class="title">
-PunchLine: A Dataset for Situated Conversational Pragmatic Reasoning <br>
+Diplomat: A Dialogue Dataset for Situated PragMATic Reasoning <br>
 
 <span class="info"> Anonymous Authors </span> <br>
 
