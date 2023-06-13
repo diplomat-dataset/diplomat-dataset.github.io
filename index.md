@@ -58,4 +58,4 @@ Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-Sha
 
 ## Contact
 
-Please context [xxx@email.com](mailto: xxx@email.com) for questions about the Diplomat dataset.
+Please context [2000017754@stu.pku.edu.cn](mailto: 2000017754@stu.pku.edu.cn) for questions about the Diplomat dataset.
