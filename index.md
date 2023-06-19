@@ -32,7 +32,7 @@ The **Diplomat** dataset owns 4,177 data and covers a vocabulary with 48,900 wor
 ## Paper
 
 
-**Diplomat: A Dialogue Dataset for Situated PragMATic Reasoning** <br>
+**DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning** <br>
 Anonymous Authors <br>
 *NeurIPS 2023 Datasets and Benchmarks Track (Under Review)*
 
