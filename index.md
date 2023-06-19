@@ -63,4 +63,4 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 
 ## Contact
 
-Please context [2000017754@stu.pku.edu.cn](mailto: 2000017754@stu.pku.edu.cn) for questions about the Diplomat dataset.
+Please context [lihengli@stu.pku.edu.cn](mailto: 2000017754@stu.pku.edu.cn) for questions about the Diplomat dataset.
