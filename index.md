@@ -8,7 +8,7 @@ comment: false
 
 
 <div class="title">
-DiploMAT: A Dialogue Dataset for Situated PragMATic Reasoning <br>
+DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning <br>
 
 <span class="info"> Anonymous Authors </span> <br>
 
