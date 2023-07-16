@@ -27,13 +27,8 @@ Pragmatic reasoning plays a pivotal role in deciphering implicit meanings that f
 ## Diplomat Dataset
 The **Diplomat** dataset owns 4,177 data and covers a vocabulary of 48,900 words. More than that, human-annotated answers reach an amount of 6,494, hold a vocabulary size of 20,000, and cover 5 types of reasoning. Along with the dataset, we propose two tasks:  Pragmatic Identification and Reasoning (PIR) and Conversational Question Answering. The latter possesses 19,482 questions concerning the content of collected dialogues and the answers to the questions are written by humans. We benchmark those tasks with current SOTA models. Their performances are under our expectations. The best model achieves less than a 0.70 accuracy score in the first task, and none of the models achieve more than a 0.30 accuracy score for the second. Regarding the experimental results provided, the significance of pragmatic reasoning speaks for itself, therefore we hope to provide the community with a dataset for better studying the problem of pragmatic reasoning and give some insights into the current situation of generative language modeling.
 
-<iframe width="100%" height="800" src="/assets/images/punchline_example.pdf">
-<object data="/assets/images/punchline_example.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/images/punchline_example.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/punchline_example.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
+![](/assets/images/punchline_example.png)
 
 ## Paper
 
