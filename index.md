@@ -32,15 +32,14 @@ The **Diplomat** dataset owns 4,177 data and covers a vocabulary of 48,900 words
 </p>
 
 ## Tasks
-We propose 2 tasks: Pragmatic Identification and Reasoning (PIR) and Conversational Question Answering (CQA). <br>
+We propose 2 tasks: Pragmatic Identification and Reasoning (PIR) and Conversational Question Answering (CQA). <be>
 
-<p align="center">
+<center>
 |**TASK** | **Centered Ability**| **Brief Description**|
 |   ---     |   ---     | --- | 
 |     PIR    | *Pragmatic Awareness, Pragmatic Reasoning*           | Using pragmatic turns, and give a reason. |
 | CQA | *Pragmatic Awareness, Pragmatic Reasoning, Application* | Answer a question which is design for the pragmatic turn.|
-</p>
-
+</center>
 
 ## Paper
 
