@@ -29,39 +29,7 @@ The **Diplomat** dataset owns 4,177 data and covers a vocabulary of 48,900 words
 
 ![](/assets/images/punchline_example.pdf)
 
-\begin{wrapfigure}{r}{.55\textwidth}
- \small
-\centering
-\vspace*{-.2in}
-\resizebox{.9\linewidth}{!}{
-\begin{tcolorbox}[enhanced,boxrule=1pt,boxsep=1pt,left=0mm,right=0mm,top=2pt,bottom=1pt,colback=gray!10,  breakable,width=8cm,colframe=black,arc=2mm, auto outer arc]
-\begin{tabular}{p{7.5cm}}
-     \textbf{A:} Finally, Ron, lots of talk about Congress releasing the second half of this \$700 billion bailout this week. Where do we stand with that?\\
-     \textbf{B:} Quite possible that Congress will get that done this week now that Barack \textcolor{red}{Obama} has asked George Bush, has asked the current president, to formally put in a \textcolor{blue}{request} for that money. Congress has got a lot of questions about how this money is going to be spent, as it has questions about how the first half of the money was spent. 
-     % So, they're going to resist. There's going to be some pushback. But it's quite possible the release will come this week.
-\end{tabular}
-\end{tcolorbox}
-}\\
-\vspace{1mm}
-\resizebox{.9\linewidth}{!}{
-\begin{tcolorbox}[enhanced jigsaw,boxrule=0pt,left=0mm,right=0mm,top=2pt,bottom=1pt, width=8cm,arc=2mm, auto outer arc,borderline={0.5mm}{0mm}{black!50!white,dashed}]
-\begin{tabular}{p{7.5cm}}
-    \textbf{Rationale:} Barack Obama's request for the \$700 billion bailout may expedite the process.
-\end{tabular}
-\end{tcolorbox}
-} \\
-\vspace{1.5mm}
-\resizebox{.93\linewidth}{!}{
-\begin{tabular}{p{7.5cm}}
-     \textbf{Q$_1$:} What may expedite the process? \\
-      \textbf{A$_1$:} \textcolor{blue}{Request}\\
-      \textbf{Q$_2$:} Which president requested the \$700 billion bailout to be released? \\
-      \textbf{A$_2$:} \textcolor{red}{Obama}\\
-\end{tabular}
-}
-\caption{Conversational Question Answering example.}
-\label{fig:QAexample}
- \end{wrapfigure}
+
 ## Paper
 
 
