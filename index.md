@@ -37,8 +37,8 @@ We propose 2 tasks: Pragmatic Identification and Reasoning (PIR) and Conversatio
 <center>
 |**TASK** | **Centered Ability**| **Brief Description**|
 |   ---     |   ---     | --- | 
-|     PIR    | *Pragmatic Awareness, Pragmatic Reasoning*           | Using pragmatic turns, and give a reason |
-| CQA | *Pragmatic Awareness, Pragmatic Reasoning, Application* | Answer a question which is design for the pragmatic turn|
+|     PIR    | *Pragmatic Awareness, Pragmatic Reasoning*           | Using pragmatic turns, and give a reason. |
+| CQA | *Pragmatic Awareness, Pragmatic Reasoning, Application* | Answer a question which is design for the pragmatic turn.|
 </center>
 
 
