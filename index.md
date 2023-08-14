@@ -68,7 +68,7 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 @article{li2023diplomat,
     title={{D}i{P}lomat: A {D}ialogue {D}ataset for {S}ituated {P}ragmatic {R}easoning},
     author={Hengli Li, Song-Chun Zhu, Zilong Zheng},
-    booktitle={arXiv preprint arXiv:2306.09030},
+    journal={arXiv preprint arXiv:2306.09030},
     year={2023}
 }
 ```
