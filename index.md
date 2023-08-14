@@ -10,10 +10,14 @@ comment: false
 <div class="title">
 DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning <br>
 
-<span class="info"> Anonymous Authors </span> <br>
+<span class="info"> Hengli Li, <a href="https://zhusongchun.net/"> Song-Chun Zhu </a>, <a href="https://zilongzheng.github.io/" > Zilong Zheng </a> </span> <br>
 
-<span class="info">NeurIPS 2023 Datasets and Benchmarks Track (Under Review) </span>
+<span class="info"> Peking University</span>, <span class="info"> BIGAI </span>
+
+<!-- <span class="info">NeurIPS 2023 Datasets an </span> -->
 </div>
+
+<span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> </span> | <span class="info"> <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
 
 <br>
 
@@ -43,8 +47,8 @@ We propose 2 tasks: Pragmatic Identification and Reasoning (PIR) and Conversatio
 
 
 **[DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning](https://arxiv.org/abs/2306.09030)** (Paper link)<br>
-Anonymous Authors <br>
-*NeurIPS 2023 Datasets and Benchmarks Track (Under Review)*
+Hengli Li, Song-Chun Zhu, Zilong Zheng <br>
+*arXiv, 2023*
 
 ## Download
 
@@ -60,17 +64,13 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 ## Citation
 
 ```bibtex
-@inproceedings{neurips2023diplomat,
+@inproceedings{li2023diplomat,
     title={DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning},
-    author={Anonymous Authors},
-    booktitle={NeurIPS 2023 Datasets and Benchmarks Track (Under Review)},
+    author={Hengli Li, Song-Chun Zhu, Zilong Zheng},
+    booktitle={arXiv},
     year={2023}
 }
 ```
-
-## References
-
-
 
 ## Contact
 
