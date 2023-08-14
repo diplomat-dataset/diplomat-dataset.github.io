@@ -12,12 +12,13 @@ DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning <br>
 
 <span class="info"> Hengli Li, <a href="https://zhusongchun.net/"> Song-Chun Zhu </a>, <a href="https://zilongzheng.github.io/" > Zilong Zheng </a> </span> <br>
 
-<span class="info"> Peking University</span>, <span class="info"> BIGAI </span>
+<span class="info"> Peking University, </span><span class="info"> BIGAI </span> <br>
+
+<span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> </span> &#124; <span class="info"> <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
 
 <!-- <span class="info">NeurIPS 2023 Datasets an </span> -->
 </div>
 
-<span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> </span> | <span class="info"> <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
 
 <br>
 
