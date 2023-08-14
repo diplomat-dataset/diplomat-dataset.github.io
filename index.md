@@ -14,7 +14,7 @@ DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning <br>
 
 <span class="info"> Peking University, </span><span class="info"> BIGAI </span> <br>
 
-<span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> </span> &#124; <span class="info"> <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
+<span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> | <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
 
 <!-- <span class="info">NeurIPS 2023 Datasets an </span> -->
 </div>
@@ -65,10 +65,10 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 ## Citation
 
 ```bibtex
-@inproceedings{li2023diplomat,
-    title={DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning},
+@article{li2023diplomat,
+    title={{D}i{P}lomat: A {D}ialogue {D}ataset for {S}ituated {P}ragmatic {R}easoning},
     author={Hengli Li, Song-Chun Zhu, Zilong Zheng},
-    booktitle={arXiv},
+    booktitle={arXiv preprint arXiv:2306.09030},
     year={2023}
 }
 ```
