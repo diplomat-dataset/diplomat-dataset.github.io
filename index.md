@@ -39,10 +39,10 @@ The **Diplomat** dataset owns 4,177 data and covers a vocabulary of 48,900 words
 ## Tasks
 We propose 2 tasks: Pragmatic Identification and Reasoning (PIR) and Conversational Question Answering (CQA). <be>
 
-|**Task** | **Direct**  | **Ability**| **Description**|
+|**Task** | **Direct Testing**  | **Ability**| **Description**|
 |   :---:     |   :---:     | :---: | :---: |
-|     PIR    | Yes      | *Pragmatic Awareness, Pragmatic Reasoning*     | Choose pragmatic turns, and give reasons. |
-| CQA | No | *Pragmatic Awareness, Pragmatic Reasoning, Application* | Answer a question that is designed for the pragmatic turn.|
+|     PIR    | Yes      | *Pragmatic Awareness, Pragmatic Reasoning*     | Models are provided with dialogues and are required to identify turns whose actual meanings deviate from their literal interpretations, commonly referred to as pragmatic turns. If their selections are accurate, a set of rationales is presented and they are expected to choose the most plausible reason for each pragmatic turn.|
+| CQA | No | *Pragmatic Awareness, Pragmatic Reasoning, Application* | Models are provided with dialogue and a question that is designed for the pragmatic turn. They are expected to choose an answer from the choice pool to the question|
 
 ## Paper
 
