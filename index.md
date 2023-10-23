@@ -65,10 +65,10 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 ## Citation
 
 ```bibtex
-@article{li2023diplomat,
+@inproceedings{li2023diplomat,
     title={DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning},
     author={Hengli Li, Song-Chun Zhu, Zilong Zheng},
-    journal={arXiv preprint arXiv:2306.09030},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
     year={2023}
 }
 ```
