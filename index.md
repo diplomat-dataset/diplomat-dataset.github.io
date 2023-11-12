@@ -53,9 +53,9 @@ Hengli Li, Song-Chun Zhu, Zilong Zheng <br>
 
 ## Download
 
-Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can download our dataset from [Link here](https://drive.google.com/drive/folders/1Z33-6pXay9R-zRXJcFNtxaZMjTv9Zfs9?usp=share_link).
+Our dataset is distributed under the [CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can download our dataset from [Link here](https://drive.google.com/drive/folders/1Z33-6pXay9R-zRXJcFNtxaZMjTv9Zfs9?usp=share_link) or from [huggingface](https://huggingface.co/datasets/bigai/DiPlomat).
 
-The following code is recommended to use for loading the dataset, while the [Huggingface transformers package](https://anaconda.org/conda-forge/transformers) is needed.
+For data from google drive, the following code is recommended to use for loading the dataset, while the [Huggingface transformers package](https://anaconda.org/conda-forge/transformers) is needed.
 ```python
 from datasets import load_from_disk
 dataset = load_from_disk(f"{dataset_directory_name}")
