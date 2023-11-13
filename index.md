@@ -69,7 +69,7 @@ dataset = load_from_disk(f"{dataset_directory_name}")
 ```bibtex
 @inproceedings{li2023diplomat,
     title={DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning},
-    author={Hengli Li, Song-Chun Zhu, Zilong Zheng},
+    author={Hengli Li and Song-Chun Zhu and Zilong Zheng},
     booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
     year={2023}
 }
