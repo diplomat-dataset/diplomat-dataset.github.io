@@ -17,7 +17,7 @@ DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning <br>
 <span class="info"> <a href="https://github.com/diplomat-dataset/diplomat"> Code </a> | <a href="https://arxiv.org/abs/2306.09030"> arXiv </a> </span>
 
 <!-- <span class="info">NeurIPS 2023 Datasets an </span> -->
-<span class="info"> <a href='http://www.freevisitorcounters.com'>on freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9091be5ed5a1e08a3a5cf86982189950c98ea43c'></script>
+<span class="info"><script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9091be5ed5a1e08a3a5cf86982189950c98ea43c'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1101031/t/13"></script></span>
 </div>
 
